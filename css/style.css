@@ -1,0 +1,170 @@
+body {
+    background-color: rgb(255, 255, 242);
+    font-family: sans-serif, Courier, monospace;
+   
+  }
+
+  .banner {
+    background-color: #44516f;
+    color:lightgreen;
+    font-size: 48px;
+    height: 100px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    line-height: 100px;
+  }
+
+  #container {
+    width: 80%;
+    margin: 0px auto;
+  }
+
+  .text-1{
+    font-size: 24px;
+    font-weight: bold;
+    padding: 0px 20px;
+  }
+
+  .text-2{
+    background-color: tomato;
+    color: yellow;
+    border: 2px solid salmon;
+    padding: 10px 10px ;
+    font-size: 20px;
+  }
+
+  .text-3{
+    border-radius:5px ;
+    color:pink;
+    padding: 20px;
+  }
+  
+  .wording{
+    color: white;
+    font-size: 32px;
+  }
+
+  .sport{
+    font-size: 32px;
+    margin-left: 10px;
+    color: brown;
+  }
+
+  #picture{
+    text-align: center;
+  }
+  #picture img{
+    border-radius: 10px;
+    margin: 0px 10px;
+  }
+
+  .sub-title{
+    background-color: #44516f;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    padding-left: 20px;
+    font-size: 30px;
+    
+    
+  }
+
+  .block-1{
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .block-1 img{
+    width: 100%;
+
+  }
+
+  .block-1 ol{
+    list-style-type: none;
+    border: 2px dashed cornflowerblue;
+    padding: 10px;
+  }
+
+  .block-2{
+    font-size: 20px;
+    font-style: italic;
+    background-color: rgb(214, 181, 169);
+    border-radius: 10px;
+    padding: 10px;
+    color: red;
+  }
+  .block-2 a{
+    color: forestgreen;
+  }
+  
+  .block-3{
+    color: rgb(122, 92, 13);
+
+  }
+
+
+  .block-3 table{
+    border: 2px solid black;
+    width: 90%;
+    margin:0px auto;
+    height: 300px;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .block-3>table>thead>tr>th{
+    background-color: rgb(216, 207, 86);
+  }
+
+  .block-3 tr{
+    background:pink;
+    
+    font-size: 16px;
+
+  }
+
+  .block-4{
+    background-color:rgb(175, 228, 238);
+    padding: 20px;
+    text-align: center;
+  }
+
+  form{
+    background-color: rgb(199, 123, 166);
+    padding: 20px 0px;
+    
+  }
+
+
+  input,label,textarea,button{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  button{
+    width: 100px;
+    background-color: rgb(71, 32, 178);
+    color: white;
+   
+  }
+
+  .footer{
+    text-align: center;
+    font-size: 20px;
+  }
+
+  #idol{
+    padding:20px ;
+  }
+
+  #idol img{
+    border-radius: 10px;
+    float: right;
+    margin: 20px;
+  }
+
+
+
+  
