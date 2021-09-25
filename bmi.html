@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
 
     <title>計算BMI</title>
+
     <link rel="stylesheet" href="css/style.css">
+
     <style>
         form {
             text-align: center;
@@ -57,9 +59,12 @@
 
             <label for="weight">體重</label><br>
             <input type="number" name="weight" id="weight"></print>
-            <br>
-            <br>
-            <button type="submit">計算</button><br>
+            <br><br>
+
+            <p class="result">BMI:</p>
+
+            <p class="class:BMI:"></p>
+            <input type="button" id="count" value="計算" onclick="calc()"></button>
 
 
 
@@ -68,7 +73,7 @@
 
         </form>
     </div>
-
+    <script src="js/bmi.js"></</script>
 
 </body>
 
